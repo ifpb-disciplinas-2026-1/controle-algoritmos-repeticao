@@ -14,7 +14,8 @@ Neste repositório iremos manter todos os códigos desenvolvidos nas aulas sobre
 Na pasta [atividades](/atividades) temos a nossa quarta lista de exercício. Desenvolva, para cada item, um algoritmo correspondente.
 Os arquivos devem ser compiláveis (sem problemas para compilar) e atenderem ao solicitado em cada questão.
 
-Na pasta [respostas](/respostas) temos três respostas da nossa segunda lista de exercício. As questões a serem respondidas foram escolhidas pelos alunos em nossa turma no Classroom. Iremos disponibilizar uma  [platlist](/respostas) no youtube com as resolução destas questões. 
+Na pasta [respostas](/respostas) temos três respostas da nossa segunda lista de exercício. As questões a serem respondidas foram escolhidas pelos alunos em nossa turma no Classroom. 
+Iremos disponibilizar uma  [playlist](/respostas) no youtube com as resolução destas questões. 
 Para exemplificar, observe o código desenvolvido na Linguagem C para a questão `e04-4`.
 
 ```
